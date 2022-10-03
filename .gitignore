@@ -1,0 +1,11 @@
+dist
+.tmp/
+.env*
+!.env.example
+node_modules
+/coverage
+license.txt
+exports
+*.cache
+build
+.strapi-updater.json
